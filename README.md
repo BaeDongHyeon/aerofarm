@@ -15,5 +15,5 @@
 - Java, Spring, JPA, QueryDsl, AWS, H2-Database, Thymeleaf
 
 <h2>DB 구성</h2>
-![DB구성](https://github.com/BaeDongHyeon/aerofarm/assets/91925852/19b791ed-cad8-4da3-9f1b-4c5e94233854)
+<img src=https://github.com/BaeDongHyeon/aerofarm/assets/91925852/e4582b98-e55a-4c22-b55b-978fd7518e5b>
 
