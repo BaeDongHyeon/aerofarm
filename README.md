@@ -17,9 +17,6 @@
 <h2>사용한 기술</h2>
 - Java, Spring, JPA, QueryDsl, AWS, H2-Database, Thymeleaf
 
-<h2>DB 구성</h2>
-<img src=https://github.com/BaeDongHyeon/aerofarm/assets/91925852/e4582b98-e55a-4c22-b55b-978fd7518e5b>
-
 <h2>동작 예시</h2>
 ## 게시글 작성
 <br>
